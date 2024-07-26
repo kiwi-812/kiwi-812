@@ -13,7 +13,6 @@
 - 🌱 I’m currently learning **Data Analysis**
  - 💬 Ask me about **Excel, Database, SQL**
 - 📫 How to reach me **kareemshaaban812@gmail.com**.
-- 🔭 You can look at my [Resume](https://drive.google.com/file/d/1_gaWIArjvWUD0Uh9C03aq4ybs4F0lFVb/view?usp=drivesdk) for more details about me
 --------------
 <h3 align="left"> Connect with me:</h3>
 <p align="center">
@@ -50,4 +49,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🔭 You can look at my [Resume](https://drive.google.com/file/d/1_gaWIArjvWUD0Uh9C03aq4ybs4F0lFVb/view?usp=drivesdk) for more details about me
+
 -->
